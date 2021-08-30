@@ -48,6 +48,9 @@ h5 {
 	border: 1px solid #3a3a3a;
 	margin-top: 20px;
 }
+.call_button{
+	color: #fff;
+}
 .btn:hover, .btn:focus {
 	background-color: #cd003a;
 	color: #fff;
