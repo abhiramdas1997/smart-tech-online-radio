@@ -11,7 +11,7 @@ p {
 	color: #6c7279;
 }
 h1 {
-	font-size: 65px;
+	font-size: 50px;
 	color: #2d3033;
 }
 h2 {
@@ -345,7 +345,7 @@ ul li {
 	min-height: 750px;
 }
 .banner-text {
-	margin-top: 35%;
+	margin-top: 20%;
 	color: #fff;
 	float: left;
 	padding: 0;
